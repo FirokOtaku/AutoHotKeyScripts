@@ -1,2 +1,2 @@
-; 这个脚本用来模拟输入try/catch语句块的动作
+; 杩欎釜鑴氭湰鐢ㄦ潵妯℃嫙杈撳叆try/catch璇彞鍧楃殑鍔ㄤ綔
 !1::Send ^xtry{Enter}{{}{Enter};{Down}{Enter}catch(Exception e){Enter}{{}{Enter};{Up}{Up}{Up}{Up}^v
